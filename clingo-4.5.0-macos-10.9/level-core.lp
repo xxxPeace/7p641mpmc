@@ -1,4 +1,4 @@
-#const width=10.
+#const width=7.
 
 param("width",width).
 

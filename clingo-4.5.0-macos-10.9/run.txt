@@ -1,0 +1,3 @@
+/Users/peace/Desktop/clingo-4.5.0-macos-10.9/gringo level-core.lp level-style.lp level-sim.lp level-shortcuts.lp |/Users/peace/Desktop/clingo-4.5.0-macos-10.9/reify |/Users/peace/Desktop/clingo-4.5.0-macos-10.9/clingo - meta.lp metaD.lp metaO.lp metaS.lp --parallel-mode=4 --outf=2> example_noshortcut.json
+
+/Users/peace/Desktop/clingo-4.5.0-macos-10.9/clingo level-core.lp level-style.lp level-sim.lp --sign-def=3 --outf=2> example.json
